@@ -1,0 +1,3 @@
+Python
+# If you have your python virtual environment created using conda, once you start using pip to install packages do not use conda for any package installation
+https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#installing-non-conda-packages 
