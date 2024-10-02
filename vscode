@@ -1,0 +1,3 @@
+# get lines marking the selected function area, and colored parens
+"editor.bracketPairColorization.enabled": true,
+"editor.guides.bracketPairs":"active" 
